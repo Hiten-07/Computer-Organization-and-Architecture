@@ -1,0 +1,5 @@
+CPU → Entire processing unit
+Core → An independent execution unit inside CPU
+Processor → Often used interchangeably with CPU
+
+Modern CPUs are multi-core, allowing parallel execution.

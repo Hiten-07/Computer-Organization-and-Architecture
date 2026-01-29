@@ -1,0 +1,11 @@
+5.1 Single-Cycle CPU
+Each instruction completes in one clock cycle.
+Simple but inefficient for complex instructions.
+
+5.2 Multi-Cycle CPU
+Instructions are broken into steps across multiple cycles.
+Better hardware utilization.
+
+5.3 Pipelined CPU
+Overlaps execution of multiple instructions.
+Improves throughput (modern processors).

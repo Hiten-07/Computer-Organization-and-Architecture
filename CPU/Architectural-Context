@@ -1,0 +1,5 @@
+In a computer system, the CPU interacts with:
+Main Memory → stores instructions and data
+Input/Output devices → communicate with the external world
+System Bus → transfers data, address, and control signals
+The CPU sits at the center of the von Neumann architecture (and its variants).

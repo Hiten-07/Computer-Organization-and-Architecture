@@ -1,0 +1,7 @@
+CPU performance depends on:
+Clock Speed (GHz)
+CPI (Cycles Per Instruction)
+Instruction Count
+
+Performance equation:
+CPU Time = Instruction Count × CPI × Clock Cycle Time

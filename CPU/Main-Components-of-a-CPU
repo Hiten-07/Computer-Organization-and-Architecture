@@ -1,0 +1,31 @@
+3.1 Arithmetic Logic Unit (ALU)
+
+Performs:
+Arithmetic operations: + − × ÷
+Logical operations: AND OR NOT XOR
+Comparisons: < > =
+Uses operands from registers and produces results stored back in registers.
+
+3.2 Control Unit (CU)
+Directs the operation of the processor.
+
+Responsibilities:
+Fetches instructions from memory
+Decodes instructions
+Generates control signals to execute them
+Acts as a traffic controller inside the CPU.
+
+3.3 Registers
+Small, fast storage inside the CPU.
+
+Hold:
+Instructions
+Data
+Addresses
+Intermediate results
+
+Examples:
+PC (Program Counter) – address of next instruction
+IR (Instruction Register) – current instruction
+Accumulator
+General-purpose registers

@@ -1,0 +1,15 @@
+The CPU operates in a repetitive cycle:
+
+1. Fetch
+Instruction is fetched from memory using the Program Counter.
+
+2. Decode
+Control Unit interprets the instruction.
+
+3. Execute
+ALU performs the operation.
+
+4. Store (Write-back)
+Result is stored in a register or memory.
+
+This is known as the Fetch–Decode–Execute Cycle.

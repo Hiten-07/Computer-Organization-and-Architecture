@@ -1,0 +1,12 @@
+Concept :
+Provides illusion of large main memory
+Uses secondary storage as extension of RAM
+
+Mechanism :
+Paging
+Page Table
+TLB (Translation Lookaside Buffer)
+
+Benefits:
+Efficient memory utilization
+Program size > physical memory

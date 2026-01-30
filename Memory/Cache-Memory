@@ -1,0 +1,12 @@
+Purpose :
+Reduces average memory access time
+Exploits locality of reference
+
+Types of Locality :
+Temporal Locality – recently used data likely used again
+Spatial Locality – nearby memory locations likely used
+
+Cache Levels :
+L1 – fastest, smallest
+L2 – moderate
+L3 – shared among cores

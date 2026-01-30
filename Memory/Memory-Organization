@@ -1,0 +1,6 @@
+Addressing :
+Byte-addressable vs word-addressable
+Address size determines maximum memory
+
+Example:
+32-bit address → 2³² bytes = 4 GB

@@ -1,0 +1,9 @@
+From fastest to slowest:
+Registers
+Cache Memory (L1, L2, L3)
+Main Memory (RAM)
+Secondary Storage (SSD/HDD)
+Tertiary Storage (Tape, Optical)
+
+Key principle:
+Higher levels are faster, smaller, and more expensive per bit

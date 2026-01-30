@@ -1,0 +1,5 @@
+A modern system:
+Registers → inside CPU
+L1/L2/L3 cache → on-chip SRAM
+16 GB DRAM → main memory
+NVMe SSD → secondary storage

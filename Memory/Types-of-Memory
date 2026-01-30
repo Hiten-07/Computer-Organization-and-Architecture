@@ -1,0 +1,22 @@
+4.1 Primary Memory (Main Memory)
+Directly accessible by CPU
+Volatile (data lost on power off)
+
+a) RAM (Random Access Memory)
+SRAM
+Faster, expensive
+Used in cache
+DRAM
+Slower, cheaper
+Used as main memory
+
+b) ROM (Read Only Memory)
+Non-volatile
+Stores firmware (BIOS/UEFI)
+Types: PROM, EPROM, EEPROM, Flash
+
+4.2 Secondary Memory
+Non-volatile
+Large storage capacity
+Slower access
+Examples: SSD, HDD

@@ -1,0 +1,4 @@
+Memory lies between:
+CPU → needs fast access
+Secondary Storage (HDD/SSD) → large but slow
+To balance speed, cost, and capacity, computer systems use a memory hierarchy.
